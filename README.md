@@ -1,4 +1,4 @@
-# Telegram Bot
+# Finance News Signals
 
 This repository contains the source code for a Telegram bot that provides cryptocurrency information, tracks chat membership, greets new members, and sends cryptocurrency news updates.
 
