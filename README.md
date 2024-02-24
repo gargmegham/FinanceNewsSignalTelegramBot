@@ -12,7 +12,7 @@ This repository contains the source code for a Telegram bot that provides crypto
 ## Installation
 
 ```bash
-git clone https://github.com/gargmegham/FinanceNewsSignal.git
+git clone https://github.com/gargmegham/FinanceNewsSignalTelegramBot.git
 cd FinanceNewsSignal
 pip install -r requirements.txt
 python main.py
