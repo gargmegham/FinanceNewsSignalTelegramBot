@@ -16,11 +16,11 @@ Please note that this project follows the [Contributor Covenant Code of Conduct]
 
 ## Reporting Issues
 
-If you encounter any bugs, issues, or have suggestions for improvements, please open an issue on the [issue tracker](https://github.com/gargmegham/FinanceNewsSignal/issues). Provide as much detail as possible to help us understand and reproduce the problem.
+If you encounter any bugs, issues, or have suggestions for improvements, please open an issue on the [issue tracker](https://github.com/gargmegham/FinanceNewsSignalTelegramBot/issues). Provide as much detail as possible to help us understand and reproduce the problem.
 
 ## Feature Requests
 
-If you have an idea for a new feature or enhancement, please open an issue on the [issue tracker](https://github.com/gargmegham/FinanceNewsSignal/issues). Describe the feature request in detail and explain how it would benefit the project.
+If you have an idea for a new feature or enhancement, please open an issue on the [issue tracker](https://github.com/gargmegham/FinanceNewsSignalTelegramBot/issues). Describe the feature request in detail and explain how it would benefit the project.
 
 ## Code Review
 
